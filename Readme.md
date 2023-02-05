@@ -2,24 +2,27 @@
 Jogo da Velha
 
 Esse é o clássico jogo da velha, é o meu primeiro jogo no mundo da programação.
-___________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 Tecnologias Usadas
 
 *Html
+
 *Css
+
 *Javascript
-_________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 Funcionalidades
 
-É um jogo que pode ser jogado tanto sozinho como em dupla, dos participantes, um fica com o X e outro com a bolinha, o primeiro que conseguir completar as 3 colunas, vence.
+Modo básico deste jogo, pode ser jogado com dois participantes, um fica com o X e outro com a bolinha, o primeiro que conseguir completar as 3 colunas, vence.
 
-_________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 Como usar
 
-colocar o link do deploy
+Entre no link e é só jogar! https://jogodavelhaclassico.netlify.app/
+
 
 Minha experiência
 
