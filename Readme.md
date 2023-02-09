@@ -21,9 +21,9 @@ ________________________________________________________________________________
 
 Como usar
 
-Entre no link e é só jogar! https://jogodavelhaclassico.netlify.app/
+Em breve colocarei o link.
 
 
 Minha experiência
 
-Foi muito interessante criar meu primeiro jogo, principalmente a parte de estilização onde criei o X e a bolinha, a parte de javascript é onde trás a interação e funcionalizade ao jogo.
+Em processo.
